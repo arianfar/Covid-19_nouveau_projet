@@ -2,6 +2,13 @@
 covid-19
 
 Ce projet contient deux datasets un premier le nombre de cases positifs de covid-19-SARS2 et ensuite le second le nombre de décès dans le monde par covid.
+Bibliothèques utilisées:
+
+Pandas
+matplotlib.pyplot
+os
+matplotlib.animation
+bar_chart_race
 
 # Partie I
 Dans la première partie nous allons présenter les principaux pays dans le monde touchés par le covid-19 (cases positifs).
